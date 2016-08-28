@@ -9,6 +9,7 @@ div.center{
     margin: auto;
     background-color: lightgray;
     border: 2px solid darkgray;
+    text-align: center;
     }
 
 h3.tit {
