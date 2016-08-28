@@ -9,14 +9,23 @@ and open the template in the editor.
 */
 
 div.center{
-    min-width:500px;
-    min-height:500px;
     margin: auto;
+    width:50%;
+    min-height:500px;
     background-color: lightgray;
     border: 2px solid darkgray;
+    
+}
+
+div.iframe {
+    margin: auto;
+    min-width:560px;
+    min-height:315px;
+    margin: auto;
+    text-align: center;
 }
 
 h3.tit {
-    margin: 2px;
+    margin: 4px auto;
     border-bottom:solid darkgray;
 }
